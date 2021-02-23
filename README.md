@@ -17,6 +17,8 @@ design the tables to hold data in the CSVs, import the CSVs into a SQL database,
 
 Inspected the CSVs and sketched out an ERD of the tables. I used [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com) to sketch it out.
 
+![](EmployeeSQL/QuickDBD-export.png)
+
 #### Data Engineering
 
 * Used the information to create a table schema for each of the six CSV files.
