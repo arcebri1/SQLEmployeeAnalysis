@@ -61,7 +61,7 @@ Inspected the CSVs and sketched out an ERD of the tables. I used [http://www.qui
 
 8. In descending order, listed the frequency count of employee last names, i.e., how many employees share each last name.
 
-![](images/7.png)
+![](images/8.png)
 
 - - -
 The data is provided by UCSD Extension: Data Science and Visualization Bootcamp.
